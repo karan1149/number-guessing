@@ -26,3 +26,9 @@ print(sum(guesses) / MAX_NUM)
 
 print("Max")
 print(max(guesses))
+
+# OUTPUT
+# Average
+# 8
+# Max
+# 10
